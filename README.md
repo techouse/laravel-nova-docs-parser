@@ -3,6 +3,8 @@
 ## Requirements:
 
 - Python 3.4+
+- Node.js
+- Git
 
 ## Installation and usage
 ```bash
