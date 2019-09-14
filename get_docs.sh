@@ -5,5 +5,5 @@ npm install
 npm run docs:build
 rm -rf node_modules
 rm -rf package-lock.json
-ln -s ./nova-docs/.vuepress/dist ./docs
 cd -
+ln -s ./nova-docs/.vuepress/dist ./docs
