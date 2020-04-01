@@ -5,7 +5,7 @@ from urllib.parse import urljoin
 import simplejson as json
 from bs4 import BeautifulSoup
 
-NOVA_VERSIONS = ("2.0", "1.0")
+NOVA_VERSIONS = ("3.0", "2.0", "1.0")
 NOVA_DOCS_URL = "https://nova.laravel.com/docs/{version}"
 
 
